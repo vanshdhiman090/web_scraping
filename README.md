@@ -40,3 +40,6 @@ This project focuses on web scraping iPhone product data from Flipkart, one of I
  Market analysis
  Price comparison
  Feature-based product filtering
+
+ ## Scraped Data
+ - <a href = "https://github.com/vanshdhiman090/web_scraping/blob/main/iphone_scrape_data.csv"> Iphones_Scraped_Data </a>
